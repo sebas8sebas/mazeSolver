@@ -1,21 +1,3 @@
-/* *****************************************
- * CSCI205 - Software Engineering and Design
- * Fall 2019
- * Instructor: Prof. Brian King
- *
- * Name: Sebastian Ascoli
- * Section: 11 am
- * Date: 10/14/2019
- * Time: 2:04 PM
- *
- * Project: mazeSolver
- * Package: PACKAGE_NAME
- * Class: Main
- *
- * Description:
- *
- * ****************************************
- */
 
 import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;
